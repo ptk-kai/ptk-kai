@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @ptk-kai
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me coding
+- 👋 Hi, I’m Kai
+- 🏫 Currently student at UNSW
