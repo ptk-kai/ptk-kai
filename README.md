@@ -1,2 +1,1 @@
 - 👋 Hi, I’m Kai
-- 🏫 Currently student at UNSW
